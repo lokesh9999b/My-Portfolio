@@ -1,5 +1,5 @@
 # Portfolio
-This is my Portfolio Websit
+This is my Portfolio Website
 
 **Screen Shots**
 
